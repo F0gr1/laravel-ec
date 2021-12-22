@@ -113,4 +113,4 @@ DB_DATABASE=database
 DB_USERNAME=docker
 DB_PASSWORD=docker
 ```
-`DB_HOST`はlocalhostではなくコンテナ名にすることに注意する。
+`DB_HOST`はlocalhostではなくコンテナ名にすることに注意する。# laravel-ablum
